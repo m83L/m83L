@@ -1,16 +1,29 @@
-### Hi there 👋
+# Bienvenu A toi 🧸 
+---
+## Chose a savoir sur moi ? 
+```
+Appel moi Mael ou Menfou ! j'ai 16 ans, et je débute dans l'info 📺
+```
+## les Languages que j'apprend 
 
-<!--
-**m83L/m83L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming languages:
+<p align="center">
 
-Here are some ideas to get you started:
+| <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height=40 width=40> |
+| <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height=40 width=40> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+## Mon discord 
+
+<img src="https://discord.c99.nl/widget/theme-2/738474777060049017.png">
+
+## Mes stats
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m83L&theme=blue-green)]()
+
+---
+<p align="center">
+  <img src="https://img.shields.io/github/followers/m83L?style=social">
+
+  <img src="https://komarev.com/ghpvc/?username=m83L&color=blue"> </p>
