@@ -2,7 +2,7 @@
 ---
 ## Chose a savoir sur moi ? 
 ```
-Appel moi Mael ou Menfou ! j'ai 16 ans, et je débute dans l'info 📺
+Salut moi c'est Mael ! j'ai 16 ans, je leak partage ou crée des script pour vous :)  
 ```
 ## les Languages que j'apprend 
 
